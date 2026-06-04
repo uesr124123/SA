@@ -5,7 +5,7 @@ from datetime import datetime
 # =========================
 # 설정
 # =========================
-TOKEN = "MTUxMTk1ODIxOTcxMzY3NTMzNA.GtNZ-g.m8YnSa-69gtm7fxiyrCt8RgzuaJ2w0vRMlQWGI"
+TOKEN = "MTUxMTk1ODIxOTcxMzY3NTMzNA.GEC2k4.6xMnCs-sUw7VaZ5i6QtkB3QON4ZyqmaE0oD2zo"
 CHANNEL_ID = 1511961082485280768  # 채널 ID 입력
 
 TARGET_DATE = datetime(2026, 6, 9, 0, 0, 0)
